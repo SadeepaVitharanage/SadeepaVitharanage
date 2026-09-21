@@ -1,85 +1,74 @@
-# Hi, I'm Sadeepa Vitharanage
+<img width="2056" height="765" alt="ChatGPT Image Sep 21, 2026, 08_32_53 PM" src="https://github.com/user-attachments/assets/37135362-8c66-4d45-a58f-7a4a9c23ba52" />
+<div align="center">
 
-###  UI/UX Engineer Software Developer
+<div align="center">
 
-I’m an IT undergraduate at **SLIIT** passionate about designing and building **simple, intuitive, and user-centered digital experiences**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D4035,50:6B705C,100:A5A58D&height=190&section=header&text=Sadeepa%20Vitharanage%20%E2%9C%A8&fontSize=44&fontColor=F5F1E8&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Engineer%20%7C%20IT%20Undergraduate&descAlignY=62&descSize=18&descColor=F5F1E8"/>
 
-I enjoy working at the intersection of **design and development** — transforming ideas and user needs into clean interfaces, interactive prototypes, and functional web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=6B705C&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sadeepa+%F0%9F%8C%B7;UI%2FUX+Engineer+%F0%9F%8E%A8;Designing+simple+digital+experiences+%E2%9C%A8;Turning+ideas+into+beautiful+interfaces+%F0%9F%8C%BF" />
 
----
+<br>
 
-## 🎨 What I Do
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
-- 🖌️ **UI/UX Design** — Figma, Wireframing, Prototyping, User-Centered Design
-- 💻 **Frontend Development** — React, JavaScript, HTML5, CSS3
-- ⚙️ **Backend Development** — Laravel, MySQL
-- 🐍 **Python & Machine Learning** — TensorFlow, OpenCV
-- 🔧 **Tools** — Git, GitHub, VS Code
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=SadeepaVitharanage&label=Profile%20Visitors&color=6B705C&style=flat-square" />
 
-## 🚀 Featured Projects
-
-### 🏥 Doctor Feedback Management System
-A web-based platform for collecting, managing, and displaying patient feedback for doctors.
-
-**Tech:** React · JavaScript · MySQL · HTML · CSS
-
-### 👁️ AI-Based Eye Disease Detection System
-An image-classification project using computer vision and machine learning techniques.
-
-**Tech:** Python · TensorFlow · OpenCV
-
-### 🎓 Student Attendance Management System
-A web application designed to digitize student attendance tracking and record management.
-
-**Tech:** Spring Boot · Java · MySQL · HTML · CSS
-
-### 📱 Mobile App UI/UX Design
-Designed mobile interfaces using user-centered design principles, wireframing, and interactive prototyping.
-
-**Tool:** Figma
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+## 🌷 Hello, I'm Sadeepa!
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+</div>
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,java,spring,mysql" />
-</p>
+I'm an **IT undergraduate at SLIIT** and an aspiring **UI/UX Engineer** who loves combining **design, technology, and creativity**.
 
-### Programming & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+I enjoy transforming ideas into:
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+🎨 **Beautiful interfaces**  
+🧩 **Simple user experiences**  
+📱 **Interactive prototypes**  
+💻 **Functional web applications**
+
+I believe that good design should be **simple, useful, accessible, and enjoyable**.
+
+> 🌿 *Design with purpose. Build with impact.*
 
 ---
 
-## 📚 Currently Learning
+## 🎀 About Me
 
-```text
-UI/UX Design
-      ↓
-User Research
-      ↓
-Design Systems
-      ↓
-Frontend Development
-      ↓
-Product Design
+```yaml
+name: Sadeepa Vitharanage
+
+role:
+  - UI/UX Engineer
+  - IT Undergraduate
+  - Software Developer
+
+currently:
+  - Learning
+  - Designing
+  - Building
+  - Exploring
+
+passionate_about:
+  - UI/UX
+  - Product Design
+  - User Experience
+  - Frontend Development
+  - Creative Technology
+
+design_tool:
+  - Figma
+
+favorite_things:
+  - Clean Interfaces
+  - Good Typography
+  - Soft Colors
+  - Minimal Design
+  - Meaningful Products
