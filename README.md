@@ -66,7 +66,7 @@
   <sub>˚₊‧♡‧₊˚</sub>
 </div>
 
-<br
+<br>
 
 <!-- =========================================================
      STEP 2 — INTRODUCTION
@@ -173,6 +173,11 @@ focus:
   - Product Design
   - Frontend Development
   - User Experience
+```
+
+</td>
+</tr>
+</table>
 
 <!-- =========================================================
      STEP 3 — TOOLBOX
@@ -670,7 +675,7 @@ prototyping in Figma.
 <div align="center">
 
   <p>
-    <sub>MY GITHUB MILESTONES</sub>
+    <sub>06 / MY GITHUB MILESTONES</sub>
   </p>
 
   <h3>
@@ -701,7 +706,7 @@ prototyping in Figma.
 <div align="center">
 
   <p>
-    <sub>CONTRIBUTION ACTIVITY</sub>
+    <sub>07 / CONTRIBUTION ACTIVITY</sub>
   </p>
 
   <h3>
@@ -733,7 +738,7 @@ prototyping in Figma.
 <div align="center">
 
   <p>
-    <sub>CONTRIBUTION SNAKE</sub>
+    <sub>08 / CONTRIBUTION SNAKE</sub>
   </p>
 
   <h3>
@@ -770,59 +775,8 @@ prototyping in Figma.
 
 <br>
 
-# =========================================================
-# GitHub Contribution Snake
-# Repository:
-# SadeepaVitharanage/SadeepaVitharanage
-# =========================================================
-
-name: Generate Contribution Snake
-
-on:
-
-  # Generate automatically once every day
-  schedule:
-    - cron: "0 0 * * *"
-
-  # Allow manual generation
-  workflow_dispatch:
-
-jobs:
-
-  generate:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      # Generate the contribution snake
-      - name: Generate Snake
-        uses: Platane/snk@v3
-
-        with:
-
-          github_user_name: SadeepaVitharanage
-
-          outputs: |
-
-            dist/github-contribution-grid-snake.svg
-
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-
-      # Publish the generated SVG files
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          build_dir: dist
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 <!-- =========================================================
-     STEP 10 — LET'S CONNECT
+     STEP 9 — LET'S CONNECT
      ========================================================= -->
 
 <br>
@@ -830,7 +784,7 @@ jobs:
 <div align="center">
 
   <p>
-    <sub>06 / LET'S CONNECT</sub>
+    <sub>09 / LET'S CONNECT</sub>
   </p>
 
   <h2>
