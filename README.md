@@ -3,19 +3,12 @@
      STEP 1 — HERO SECTION
      ========================================================= -->
 
-<div align="center">
-  <!-- Custom Hero Banner -->
-  <img
-    src="https://github.com/user-attachments/assets/37135362-8c66-4d45-a58f-7a4a9c23ba52"
-    width="100%"
-    alt="Sadeepa Vitharanage — UI/UX Engineer"
-  />
+<div align="center"
   <!-- Main Introduction -->
 <div align="center">
-<imgsrc="https://github.com/user-attachments/assets/37135362-8c66-4d45-a58f-7a4a9c23ba52"width="100%"alt="Sadeepa Vitharanage custom profile banner"/>
-<br>
+
 <h1>Hiii, I'm Sadeepa 🎀</h1>
-<imgsrc="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=6B705C&center=true&vCenter=true&width=720&lines=UI%2FUX+Engineer;Product+Designer;Frontend+Developer;Designing+meaningful+digital+experiences"alt="Typing animation showing Sadeepa's roles"/>
+
 <p>
     <i>Designing thoughtful interfaces where creativity meets technology.</i>
   </p>
